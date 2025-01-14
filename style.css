@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    margin-top: 20px;
+    /* padding: 0 50px; */
+    /* background-color: rgba(245, 244, 244, 0.093); */
+}
+.small-container{
+    background-color: rgba(245, 244, 244, 0.093);
+}
+.logo{
+    font-size: 20px;
+    font-weight: 800px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+.logo h2{
+    padding-right: 20px;
+}
+.nav{
+    display: flex;
+    text-align: center;
+    
+    margin-top: 20px;
+    height: 45px;
+    width: 100%;
+}
